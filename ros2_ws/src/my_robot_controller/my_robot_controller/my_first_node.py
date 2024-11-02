@@ -6,7 +6,7 @@ class MyNode(Node):
 
     def __init__(self):  # Constructor
         super().__init__("first_node")
-        self.get_logger().info("Hello from ROS2!")
+        self.get_logger().info("ROS2!")
 
 def main(args=None):
     rclpy.init(args=args)
