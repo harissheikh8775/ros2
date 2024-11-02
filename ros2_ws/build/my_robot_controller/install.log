@@ -1,4 +1,6 @@
+/home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py
 /home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py
+/home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__pycache__/my_first_node.cpython-310.pyc
 /home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__pycache__/__init__.cpython-310.pyc
 /home/haris/ros2/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
 /home/haris/ros2/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml
@@ -9,3 +11,4 @@
 /home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/zip-safe
 /home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/PKG-INFO
 /home/haris/ros2/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/haris/ros2/ros2_ws/install/my_robot_controller/lib/my_robot_controller/test_node
